@@ -1,0 +1,15 @@
+names:
+  - two_up
+  - one
+  - dislike
+  - like
+  - mute
+  - ok
+  - fist
+  - palm
+  - peace
+  - stop
+nc: 10
+test: /content/yolo/images/test
+train: /content/yolo/images/train
+val: /content/yolo/images/val
